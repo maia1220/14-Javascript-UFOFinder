@@ -32,4 +32,4 @@ Creating a table dynamically based upon an UFO dataset. It also allows users to 
 
 ### Dataset
 
-* [UFO Sightings Data](StarterCode/static/js/data.js)
+* [UFO Sightings Data](UFO-Level-1/StarterCode/static/js/data.js)
